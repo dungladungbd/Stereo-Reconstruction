@@ -1,8 +1,7 @@
-# Stereo Reconstruction Project
+Stereo Reconstruction Project
 
-## Trung Nguyen & Brian Do & Nam Anh Nguyen & Dat Le
-
-### 05/30/2022
+Trung Nguyen & Brian Do & Nam Anh Nguyen & Dat Le
+05/30/2022
 
 To run, in first part of main.cpp
 	- Set calib_path to the path of calibration file. 
